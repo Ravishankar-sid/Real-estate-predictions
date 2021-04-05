@@ -1,0 +1,6 @@
+Mettre le df "school.csv" ici.
+Déplacer les fichiers "full YEAR.csv" dans un dossier appelé "full" et remplacer l'espace par un "_"
+
+Faire tourner le notebook "1. Preprocessor": on crée un dossier "full_clean" qui contient les dfs "full_clean_YEAR.csv"
+Faire tourner le notebook "2. Aggregator": on crée un dossier "real_estate" qui contient les dfs "real_estate_TYPE_YEAR.csv"
+FAire tourner le notebook "3. Train": on crée un dossier "results" qui contient les fichiers "YEAR_TYPE_timestamp.txt"
